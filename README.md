@@ -12,6 +12,9 @@ Firstly, we need to download Composer, a PHP package manager. We will use Compos
 
 ## Architecture Overview
 <img width="468" alt="image" src="![ArchitectureOverview](https://github.com/nholuongut/Deploy-Lavarel/assets/58627821/16751ed4-5be3-49b8-b4b4-8127b9bea051)">
+![ArchitectureOverview](https://github.com/nholuongut/Deploy-Lavarel/assets/58627821/8f2e3e20-b1a3-465d-8cef-35485f55a328)
+
+
 
 ## Build and run with docker-compose (local)
 

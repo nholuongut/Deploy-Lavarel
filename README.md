@@ -10,7 +10,8 @@ I will use AWS CodeBuild — “a fully managed continuous integration service t
 ## Get Composer
 Firstly, we need to download Composer, a PHP package manager. We will use Composer to install Laravel and other dependencies. 
 
-
+## Architecture Overview
+<img width="468" alt="image" src="![ArchitectureOverview](https://github.com/nholuongut/Deploy-Lavarel/assets/58627821/16751ed4-5be3-49b8-b4b4-8127b9bea051)">
 
 ## Build and run with docker-compose (local)
 

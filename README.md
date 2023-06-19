@@ -10,7 +10,7 @@ I will use AWS CodeBuild — “a fully managed continuous integration service t
 ## Get Composer
 Firstly, we need to download Composer, a PHP package manager. We will use Composer to install Laravel and other dependencies. 
 
-## Architecture Overview
+
 ![ArchitectureOverview](https://github.com/nholuongut/Deploy-Lavarel/assets/58627821/ace9faef-1f66-49a5-95ae-b9b4f9fcc5f8)
 
 
